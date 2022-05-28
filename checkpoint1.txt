@@ -1,0 +1,43 @@
+Bismillahirrahmanirrahim
+
+Group 1
+Reg : 2017331024  2017331054
+
+k=14
+original text  =  thequickbrownfoxjumpsoverthirtee
+
+Process : 
+    Number of characters in alphabet is 26. So, We tried replacing each 
+    character with its kth next character where k ranges from 1 to 26.
+
+details:
+for k=1         gurdhvpxoebjasbkwhzcfbireguvegrr
+for k=2         hvseiwqypfckbtclxiadgcjsfhvwfhss
+for k=3         iwtfjxrzqgdlcudmyjbehdktgiwxgitt
+for k=4         jxugkysarhemdvenzkcfieluhjxyhjuu
+for k=5         kyvhlztbsifnewfoaldgjfmvikyzikvv
+for k=6         lzwimauctjgofxgpbmehkgnwjlzajlww
+for k=7         maxjnbvdukhpgyhqcnfilhoxkmabkmxx
+for k=8         nbykocwevliqhzirdogjmipylnbclnyy
+for k=9         oczlpdxfwmjriajsephknjqzmocdmozz
+for k=10        pdamqeygxnksjbktfqilokranpdenpaa
+for k=11        qebnrfzhyoltkclugrjmplsboqefoqbb
+for k=12        rfcosgaizpmuldmvhsknqmtcprfgprcc
+for k=13        sgdpthbjaqnvmenwitlornudqsghqsdd
+for k=14        thequickbrownfoxjumpsoverthirtee
+for k=15        uifrvjdlcspxogpykvnqtpwfsuijsuff
+for k=16        vjgswkemdtqyphqzlworuqxgtvjktvgg
+for k=17        wkhtxlfneurzqiramxpsvryhuwkluwhh
+for k=18        xliuymgofvsarjsbnyqtwszivxlmvxii
+for k=19        ymjvznhpgwtbsktcozruxtajwymnwyjj
+for k=20        znkwaoiqhxuctludpasvyubkxznoxzkk
+for k=21        aolxbpjriyvdumveqbtwzvclyaopyall
+for k=22        bpmycqksjzwevnwfrcuxawdmzbpqzbmm
+for k=23        cqnzdrltkaxfwoxgsdvybxenacqracnn
+for k=24        droaesmulbygxpyhtewzcyfobdrsbdoo
+for k=25        espbftnvmczhyqziufxadzgpcestcepp
+for k=26        ftqcguowndaizrajvgybeahqdftudfqq
+
+
+
+

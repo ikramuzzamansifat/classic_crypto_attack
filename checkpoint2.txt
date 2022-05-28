@@ -1,0 +1,88 @@
+Bismillahirrahmanirrahim
+
+Group 1
+Reg : 2017331024  2017331054
+
+Assalamu A'laikum Wa Rahmatullahi Wa ba Rokatuh, Sir. 
+In case you face any problem on running our code, 
+you can go to the following website, it runs properly there. 
+https://www.jdoodle.com/online-compiler-c++/
+
+
+Cypher 2 was easier to break. Because there was a single letter 'q' in the cypher. And we know that in English letter there is only on single letter word, and that's 'a'. And then, from the frequency distribution of our cypher, we saw that most common word is e, which is 14.07%, and in English alphabet, it is also e, that's most. (12.22 %). Thus following the procedure, firstly, we have tried the 2 letter word, then 3, and so on. Thus, Alhamdulillah we have successfully decyphered it. 
+
+Similarly in the case of Cypher 1. but It was harder than Cypher2. It took much time then Cypher 2. There was so many confusing 2 letter word. But we are happy to have done it at last, that's it. 
+And, we have enjoyed our task, that's the biggest thing. 
+
+
+We are giving our output here also: 
+
+Output: 
+
+Frequency distribution of cypher 1: (In %)
+12.31 : m
+9.55 : k
+8.29 : z
+8.04 : c
+7.79 : y
+7.29 : b
+7.29 : j
+6.28 : v
+5.53 : h
+3.52 : g
+3.27 : p
+3.02 : a
+2.76 : d
+2.76 : w
+2.01 : e
+1.76 : l
+1.76 : u
+1.51 : i
+1.26 : q
+1.26 : t
+1.01 : r
+1.01 : x
+0.75 : f
+0 : n
+0 : o
+0 : s
+
+Plaintext: 
+wood frogs of alaska are surprisingly starnge. in winter, they become frozen. two-thirds of their body water turns into ice. if you bent one of their legs, it would break. inside these frozen frogs, their hearts stop beating, their blood no longer flows and their glucose levels sky rocket. the craziest thing of all may be that in this frozen state, they can withstand temperatures as low as zero degrees fahrenheit for as long as seven months, and then, when spring arrives, thaw out and hop away.
+
+Frequency distribution of cypher 2: (In %)
+14.07 : e
+9.54 : k
+9 : q
+7.55 : p
+7.07 : s
+6.76 : y
+5.74 : d
+5.62 : j
+5.5 : f
+5.01 : w
+3.44 : r
+3.44 : z
+3.26 : b
+2.66 : n
+1.93 : h
+1.69 : g
+1.63 : t
+1.63 : x
+1.33 : m
+0.91 : c
+0.79 : a
+0.72 : v
+0.18 : i
+0.18 : l
+0.18 : o
+0.18 : u
+
+Plaintext: 
+when you look at the seas and oceans on the map you might think that they just flow into each othev. it seems like theve’s only one big ocean, and people just gave diffevent names to its pavts. well, you’ll be amazed at how vivid the bovdevs between them ave! the bovdev between the pacific and atlantic oceans is like a line between two wovlds. it looks as if the two oceans meet at an invisible wall which does not let them flow into each othev and mix theiv watevs. why on eavth does it happen? we know fov suve theve is no invisible wall inside, and watev is watev. what could intevfeve with its mixing? the thing is that watev can be diffevent too. the atlantic and the pacific oceans have diffevent density and chemical make-up, the level of salinity and othev qualities. one can see by theiv colov that they ave fav fvom being the same. the bovdevs between two bodies of watev with diffevent physical and biological chavactevistics ave known as ocean clines. haloclines – bovdevs between watevs with diffevent salinity – ave the most spectaculav, and this is what we see when the atlantic and the pacific oceans meet. the famous explovev jacques cousteau found this when he was deep diving in the stvait of gibvaltav. the layevs of watev with diffevent salinity looked like they weve divided with a tvanspavent film, and each layev had its own flova and fauna. haloclines appeav when watev in one ocean ov sea is at least five times saltiev than in the othev. you can cveate a halocline at home if you pouv some seawatev ov coloved salty watev in a glass and then add some fvesh watev on top of it. the only diffevence is that youv halocline will be hovizontal, and ocean haloclines ave vevtical. if you vemembev a couple of basic things fvom physics you might avgue that a densev liquid should finally end up lowev and less dense highev. if that weve tvue the bovdev between the two oceans would look not like a vevtical line but as a hovizontal one, and the diffevence between theiv salinity would become less obvious the closev they got to each othev.
+
+
+
+
+
+**************** Jazakallahu Khairan ****************
